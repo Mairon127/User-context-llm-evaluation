@@ -1,0 +1,10 @@
+pandas
+openpyxl
+spacy
+scikit-learn
+nltk
+matplotlib
+seaborn
+rouge-score
+bert-score
+torch
