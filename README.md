@@ -77,4 +77,9 @@ The survey data included in this repository have been anonymized and do not cont
 
 ## License
 
-This project is distributed under the MIT License.
+The source code in the `src/` directory is licensed under the MIT License.
+
+The Master's_thesis in the `pdf/` directory is licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0).
+
+Copyright © 2026 Mariusz Kania.
