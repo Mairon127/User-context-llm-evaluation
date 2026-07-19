@@ -1,16 +1,20 @@
 # Content License
 
-The PDF document located in the `pdf/` directory is licensed under the
+The master's thesis located in the `pdf/` directory and the datasets located
+in the `data/` directory are licensed under the
 Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 Copyright © 2026 Mariusz Kania.
 
-When using, copying, sharing, or adapting this document, you must:
+You are free to share and adapt these materials, including for commercial
+purposes, provided that you:
 
-- give appropriate credit to the authors,
-- provide the title and source of the work,
-- include a reference to the CC BY 4.0 license,
+- give appropriate credit to the author;
+- provide a reference to the CC BY 4.0 license;
 - indicate whether any changes were made.
+
+Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
 
 The source code is licensed separately under the MIT License.
 See the `LICENSE` file for details.
