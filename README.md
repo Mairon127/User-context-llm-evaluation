@@ -22,9 +22,8 @@ user-context-llm-evaluation/
 │   └── survey_responses.xlsx
 ├── src/
 │   └── model_comparison.py
-└── results/
-    ├── metrics_results.csv
-    └── heatmaps/
+├── pdf/
+│   ├──Master's_thesis.pdf
 ```
 
 ## Files
